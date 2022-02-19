@@ -7,7 +7,7 @@ public class HomeWorkApp2 {
         System.out.println(verifySumLimit(15, 1));
         positiveOrNegative(1);
         System.out.println(isPositivOrNegativ(5));
-        printWord("slovo", 5);
+        printWord("slova", 5);
     }
 
     public static boolean verifySumLimit(int a, int b) {
